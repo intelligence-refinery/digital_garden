@@ -18,12 +18,12 @@ fi
 # Step 3: Copy real content to content folder (replace symlink with real files)
 rsync -a --exclude='.git' "$REAL_CONTENT_PATH/" "$SYMLINK_PATH"
 
-## Step 4: Run your build and deployment commands here
-#echo "Building and deploying..."
-## npx quartz build
-#git add .
-#git commit -m "build: deploy with physical content"
-#git push
+# Step 4: Run your build and deployment commands here
+echo "Building and deploying..."
+# npx quartz build
+git add .
+git commit -m "build: deploy with physical content"
+git push
 
 # Step 5: Remove the physical content directory after deployment
 rm -rf "$SYMLINK_PATH"
