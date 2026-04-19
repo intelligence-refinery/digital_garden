@@ -1,1 +1,1 @@
-export {}
+export { MarginNotes } from "./marginNotes"

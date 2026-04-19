@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("slipbox")
+    order:
+      - title
+      - tags
+    columnSize:
+      note.title: 373
