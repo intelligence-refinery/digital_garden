@@ -1,3 +1,8 @@
+---
+tags:
+  - aws-dea
+  - study-note
+---
 What dish is this service meant to be in the multi-course meal that is an AWS data infrastructure?
 
 What qualities should this dish have?
