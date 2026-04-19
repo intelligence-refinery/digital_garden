@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889c5570-19cb-4217-b580-4a9d43d3a6f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/plugins/loader/config-loader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/loader/config-loader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/plugins/transformers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/transformers/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -22,12 +25,12 @@
     &quot;assignee&quot;: &quot;intelligence-refinery&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jackyzha0/quartz.git&quot;,
-    &quot;accountId&quot;: &quot;9aaca13a-59e8-496b-a952-ad9ce67f5534&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/intelligence-refinery/digital_garden",
+    "accountId": "9aaca13a-59e8-496b-a952-ad9ce67f5534"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -36,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;v5&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nancyd/digital_garden&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/nancyd/digital_garden"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
