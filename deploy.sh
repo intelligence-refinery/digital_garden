@@ -16,7 +16,7 @@ if [ -L "$SYMLINK_PATH" ] || [ -d "$SYMLINK_PATH" ]; then
 fi
 
 # Step 3: Copy real content to content folder (replace symlink with real files)
-cp -r "$REAL_CONTENT_PATH" "$SYMLINK_PATH"
+rsync -a --exclude='.git' "$REAL_CONTENT_PATH/" "$SYMLINK_PATH"
 
 # Step 4: Run your build and deployment commands here
 echo "Building and deploying..."
