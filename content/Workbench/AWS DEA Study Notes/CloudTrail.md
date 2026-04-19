@@ -2,5 +2,7 @@
 tags:
   - aws-dea
   - study-note
+title: CloudTrail
+publish: true
 ---
-[[./base_example.base]]
+j

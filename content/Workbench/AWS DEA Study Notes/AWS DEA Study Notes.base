@@ -1,3 +1,9 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.hasTag("aws-dea")
+    order:
+      - title
+      - tags
