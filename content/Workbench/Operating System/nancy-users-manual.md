@@ -1,0 +1,1 @@
+- reduce friction to reduce [[202604200700-cognitive-load|Cognitive load]]
