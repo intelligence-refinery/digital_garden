@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Slipbox")
 views:
   - type: table
     name: Table
@@ -11,3 +14,4 @@ views:
       - file.mtime
     columnSize:
       note.title: 248
+      note.tags: 219
