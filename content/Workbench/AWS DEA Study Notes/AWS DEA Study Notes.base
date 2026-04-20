@@ -3,7 +3,9 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("aws-dea")
+        - file.hasTag("aws-dea", "study-note")
     order:
       - title
       - tags
+    columnSize:
+      note.title: 191
