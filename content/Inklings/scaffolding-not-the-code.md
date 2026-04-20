@@ -5,6 +5,7 @@ tags:
   - programming
   - ai
   - inkling
+publish: true
 ---
 > Building software still demands discipline, but the discipline shows up more in the scaffolding rather than the code. 
 > 								- [OpenAI blog post on harness engineering](https://openai.com/index/harness-engineering/#:~:text=building%20software%20still%20demands%20discipline%2C%20but%20the%20discipline%20shows%20up%20more%20in%20the%20scaffolding%20rather%20than%20the%20code.)

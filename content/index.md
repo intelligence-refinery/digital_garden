@@ -8,7 +8,7 @@ enableToc: false
   
 <div class="section-card">  
   
-## 💭 Inklings 
+## 💭 [Inklings ](./Inklings/Inklings.base)
   
 
   
