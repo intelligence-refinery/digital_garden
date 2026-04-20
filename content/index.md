@@ -8,7 +8,7 @@ enableToc: false
   
 <div class="section-card">  
   
-## 💭 [Inklings ](./Inklings/Inklings.base)
+## 💭 [Inklings ](./Inklings/)
   
 
   
@@ -24,7 +24,7 @@ enableToc: false
   
 <div class="section-card">  
   
-## 🗃️ [Slipbox](./Slipbox/Slipbox.base)
+## 🗃️ [Slipbox](./Slipbox/)
   
 - [Should Read List](should-read-list.md) - Curated notes and knowledge management resources.  
   
