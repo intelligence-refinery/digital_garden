@@ -7,5 +7,6 @@ views:
     order:
       - title
       - tags
+      - file.name
     columnSize:
       note.title: 373
