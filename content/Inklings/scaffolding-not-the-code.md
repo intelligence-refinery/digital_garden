@@ -13,7 +13,7 @@ What we call code review is, in practice, a human reading a diff and mentally si
 
 :::{.margin}
 
-> Building software still demands discipline, but the discipline shows up more in the scaffolding rather than the code. 
+"Building software still demands discipline, but the discipline shows up more in the scaffolding rather than the code." ([source](https://openai.com/index/harness-engineering/#:~:text=building%20software%20still%20demands%20discipline%2C%20but%20the%20discipline%20shows%20up%20more%20in%20the%20scaffolding%20rather%20than%20the%20code.))
 
 :::
 
