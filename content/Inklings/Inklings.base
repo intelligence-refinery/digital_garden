@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Slipbox")
+    - file.inFolder("Inklings")
 views:
   - type: table
     name: Table
