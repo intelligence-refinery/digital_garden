@@ -1,1 +1,4 @@
-- reduce friction to reduce [[202604200700-cognitive-load|Cognitive load]]
+- Streamlining is a useful driver
+	- Reduce [[202604200700-cognitive-load|cognitive load]]
+	- Reduce friction for doing the right things
+		- Exercise, eating right, etc
