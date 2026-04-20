@@ -81,7 +81,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 40
+      priority: 50
     options:
       collapseByDefault: false
   - source: github:quartz-community/crawl-links
@@ -210,7 +210,7 @@ plugins:
       hideWhenEmpty: true
     layout:
       position: left
-      priority: 50
+      priority: 40
   - source: github:quartz-community/article-title
     enabled: true
     layout:
