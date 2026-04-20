@@ -3,8 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="889c5570-19cb-4217-b580-4a9d43d3a6f5" name="Changes" comment="Update notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/workbench/aws-dea-notes/aws-dea-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604131417-dillard-how-we-spend-each-day.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604132234-boswell-productivity-is-reducing-friction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604140830-what-matters-for-data-engineers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604160842-mechanical-sympathy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604160845-good-engineers-are-good-product-designers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604160850-cognitive-load-is-a-broken-windows-in-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604160918-the-yellow-brick-road.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/202604190635-data-engineer-as-keeper-of-good-habits.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Slipbox/Slipbox.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/AWS DEA Study Notes.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/CloudTrail.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/EventBridge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/Redshift.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/aws-glue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/aws-step-functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/Workbench.canvas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/readings" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/content" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -27,12 +43,12 @@
     &quot;assignee&quot;: &quot;intelligence-refinery&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/intelligence-refinery/digital_garden",
-    "accountId": "9aaca13a-59e8-496b-a952-ad9ce67f5534"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/intelligence-refinery/digital_garden&quot;,
+    &quot;accountId&quot;: &quot;9aaca13a-59e8-496b-a952-ad9ce67f5534&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -45,9 +61,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "wip-nancy",
-    "last_opened_file_path": "/Users/nancyd/digital_garden"
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/nancyd/digital_garden",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -129,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776600357554</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update notes">
+      <option name="closed" value="true" />
+      <created>1776600712658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776600712658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +170,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/content" />
+    </ignored-roots>
     <MESSAGE value="Add Github action for deployment" />
     <MESSAGE value="Add note" />
     <MESSAGE value="Update Github actions" />
