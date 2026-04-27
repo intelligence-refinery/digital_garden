@@ -25,8 +25,9 @@ enableToc: false
 <div class="section-card">  
   
 ## 🗃️ [Slipbox](./Slipbox/)
-  
-- [Should Read List](should-read-list.md) - Curated notes and knowledge management resources.  
+
+### Currently Reading
+[Building Evolutionary Architecture (2nd Ed)](./Slipbox/202604260736-reading-notes-building-evolutionary-architecture) 
   
 </div>  
   
