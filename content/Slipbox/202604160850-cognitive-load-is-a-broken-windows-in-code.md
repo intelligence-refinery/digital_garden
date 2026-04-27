@@ -1,7 +1,6 @@
 ---
 tags:
   - programming
-  - cognitive-load
   - developer-experience
   - friction
   - slipbox

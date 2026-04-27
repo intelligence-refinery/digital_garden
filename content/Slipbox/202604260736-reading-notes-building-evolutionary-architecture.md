@@ -5,6 +5,7 @@ tags:
   - architecture-design
   - slipbox
 title: Notes - Building Evolutionary Architecture (2nd ed)
+publish: true
 ---
 # Ch 9 – Putting Evolutionary Architecture into Practice
 
