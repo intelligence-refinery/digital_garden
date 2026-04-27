@@ -26,8 +26,9 @@ enableToc: false
   
 ## 🗃️ [Slipbox](./Slipbox/)
 
-### Currently Reading
-[Building Evolutionary Architecture (2nd Ed)](./Slipbox/202604260736-reading-notes-building-evolutionary-architecture) 
+**Currently Reading**
+[Building Evolutionary Architecture](./Slipbox/202604260736-reading-notes-building-evolutionary-architecture) 
+
   
 </div>  
   

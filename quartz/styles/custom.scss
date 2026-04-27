@@ -262,6 +262,11 @@ blockquote {
   box-shadow: 0 2px 8px rgba(13, 122, 143, 0.06);
 }
 
+// Let homepage article fill the full column width (matches Graph View width)
+body[data-slug="index"] article {
+  max-width: none;
+}
+
 // Section grid layout - 2x2 for main sections
 .section-grid {
   display: grid;
