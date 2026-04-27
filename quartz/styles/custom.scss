@@ -46,6 +46,10 @@ a {
   &:hover {
     color: var(--secondary);
   }
+
+  &.internal {
+    background-color: transparent;
+  }
 }
 
 // Sidebar refinement
