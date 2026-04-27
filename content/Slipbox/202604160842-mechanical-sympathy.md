@@ -1,9 +1,9 @@
 ---
+title: Mechanical sympathy
 tags:
   - programming
   - product-design
   - slipbox
-title: Mechanical sympathy
 publish: false
 ---
 

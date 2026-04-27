@@ -3,6 +3,8 @@ tags:
   - quote
   - slipbox
   - productivity
+  - framing
+  - design-pattern
 title: Productivity is about removing friction and cognitive load
 publish: true
 ---

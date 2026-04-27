@@ -4,6 +4,7 @@ tags:
   - quote
   - philosophy
   - slipbox
+  - framing
 publish: true
 ---
 Annie Dillard, in The Writing Life
