@@ -1,18 +1,17 @@
 ---
 title: Maximizers vs. Focusers
-publish: true
 tags:
   - slipbox
   - dynamic
   - collaboration
+publish: true
 ---
-:::{.margin}
-How to [[202604201457-frictions-are-system-design-challenges|design]] for ways to leverage the tension?
-:::
+From John Cutler's [The Beautiful Mess](https://cutlefish.substack.com/p/tbm-383-maximizers-vs-focusers):
 
+## Core Idea
 Organizational tension often stems from the clash between **Maximizers**, who prioritize speed and momentum, and **Focusers**, who value coherence and depth. High-performing organizations do not eliminate these differences but instead leverage a "healthy tension" between four specific strategic archetypes to balance innovation with stability.
 
-## Core Behavioral Biases
+## Behavioral Biases
 
 - **Maximizers:** These individuals are biased toward speed, breadth, and "luck exposure." They prefer parallel bets and tangible examples, often viewing focus as a bureaucratic hindrance to momentum.
 - **Focusers:** These individuals prioritize intentionality, compounding clarity, and "doing less for more." They are comfortable with abstraction and view excessive motion as chaotic noise that burns through talent.

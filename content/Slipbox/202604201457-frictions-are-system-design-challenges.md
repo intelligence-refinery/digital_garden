@@ -1,7 +1,8 @@
 ---
+title: Frictions are system design challenges
 tags:
   - slipbox
-title: Frictions are system design challenges
+publish: true
 ---
 Related to 
 [[202604200700-cognitive-load|Cognitive load]]
