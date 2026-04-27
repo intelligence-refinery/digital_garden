@@ -2,6 +2,7 @@
 tags:
   - quote
   - data-engineering
+  - slipbox
 publish: true
 title: Data engineers are the keepers of good data habits in an organization
 ---

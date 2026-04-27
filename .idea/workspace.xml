@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889c5570-19cb-4217-b580-4a9d43d3a6f5" name="Changes" comment="Update notes">
-      <change beforePath="$PROJECT_DIR$/content/Inklings/Inklings.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Inklings/scaffolding-not-the-code.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Slipbox/202604131417-dillard-how-we-spend-each-day.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Slipbox/202604132234-boswell-productivity-is-reducing-friction.md" beforeDir="false" />
@@ -16,8 +16,7 @@
       <change beforePath="$PROJECT_DIR$/content/Slipbox/202604200702-validation-book-reading-notes.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Slipbox/202604200704-platform-engineering.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Slipbox/202604201021-evolutionary-architecture.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Slipbox/Slipbox.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/AWS DEA Study Notes.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/AWS DEA Study Notes.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/CloudTrail.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/EventBridge.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Workbench/AWS DEA Study Notes/Redshift.md" beforeDir="false" />
@@ -29,7 +28,6 @@
       <change beforePath="$PROJECT_DIR$/content/Workbench/Workbench.canvas" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/readings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -4,5 +4,6 @@ tags:
   - entity
   - psychology
   - programming
+  - slipbox
 publish: true
 ---

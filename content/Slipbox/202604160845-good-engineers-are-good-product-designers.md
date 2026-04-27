@@ -2,6 +2,7 @@
 tags:
   - programming
   - product-design
+  - slipbox
 ---
 >  ... I don’t know any truly good engineers who are also not good at at product design. (https://vickiboykis.com/2026/04/13/mechanical-sympathy/#:~:text=%20I%20don’t%20know%20any%20truly%20good%20engineers%20who%20are%20also%20not%20good%20at%20at%20product%20design.)
 
