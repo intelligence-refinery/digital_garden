@@ -74,3 +74,4 @@ Revisit the article for [characteristics](https://martinfowler.com/articles/unco
 :::
 
 - The transitional architecture was mostly shaped by the [[202604280934-seams-in-software|seams]] that could be identified in the legacy software 
+- There is a symbiotic relationship between identifying seams and delivering increments of value
