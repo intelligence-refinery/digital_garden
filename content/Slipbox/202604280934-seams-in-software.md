@@ -1,12 +1,12 @@
 ---
 tags:
   - slipbox
+publish: true
+title: Seams in software
 ---
 
 > [!NOTE] Definition
 >  “A seam is a place where you can alter behavior in your program without editing in that place”.
-
-
 
 
 
