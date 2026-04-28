@@ -8,14 +8,18 @@ publish: true
 ---
 From John Cutler's [The Beautiful Mess](https://cutlefish.substack.com/p/tbm-383-maximizers-vs-focusers):
 
-## The Bite
+> [!TIP] Kernel
+> Organizational tension often stems from the clash between **Maximizers** and **Focusers**. High-performing organizations leverage a "healthy tension" between four specific strategic archetypes to balance innovation with stability.
+
 
 :::{.margin}
+
 **Maximizers** prioritize speed and momentum.
 **Focusers** value coherence and depth. 
+
 :::
 
-Organizational tension often stems from the clash between **Maximizers** and **Focusers**. High-performing organizations leverage a "healthy tension" between four specific strategic archetypes to balance innovation with stability.
+
 
 ## Behavioral Biases
 
