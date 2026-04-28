@@ -64,3 +64,13 @@ The database is a [[202604280934-seams-in-software|seam]].
 
 
 # Seams
+
+:::{.margin}
+
+Here, **seams** are defined as junctions between code, programs or modules that can be used strategically to "intercept" or "divert" the flow of information in the application, to enhance observability/maintainability or to offload them to a new system.
+
+Revisit the article for [characteristics](https://martinfowler.com/articles/uncovering-mainframe-seams.html#IncrementalLegacyDisplacementApproach:~:text=a%20new%20system.-,What%20makes%20for%20good%20seams%20in%20this%20context%3F,-As%20seams%20were) of "good seams".
+
+:::
+
+- The transitional architecture was mostly shaped by the [[202604280934-seams-in-software|seams]] that could be identified in the legacy software 
