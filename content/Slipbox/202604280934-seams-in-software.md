@@ -1,8 +1,8 @@
 ---
+title: Seams in software
 tags:
   - slipbox
 publish: true
-title: Seams in software
 ---
 
 > [!NOTE] Definition
