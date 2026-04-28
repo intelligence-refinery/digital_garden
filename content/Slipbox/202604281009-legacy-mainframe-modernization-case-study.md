@@ -13,7 +13,7 @@ publish: true
 
 :::{.margin}
 
-The database is a [[202604280934-seams-in-software|seam]]?
+The database is a [[202604280934-seams-in-software|seam]].
 
 :::
 
@@ -61,3 +61,6 @@ The database is a [[202604280934-seams-in-software|seam]]?
 		- "As long as up- and downstream dependencies could exchange data from the new cloud system, these workloads could be modernized independently of each other"
 	- Subset of customers who had purchased a smaller percentage of capabilities and data, so the first increment is small and can be delivered more quickly
 		- Subsequent increments would build on top of the prior work
+
+
+# Seams
