@@ -1,35 +1,25 @@
 ---
+title: 9 – Putting Evolutionary Architecture into Practice
 tags:
   - reading-notes
   - book
   - architecture-design
-  - slipbox
-title: Notes - Building Evolutionary Architecture (2nd ed)
+  - workbench
 publish: true
 ---
-# Ch 9 – Putting Evolutionary Architecture into Practice
-
-## Premise
+# Premise
 - The steps required to implement the ideas around evolutionary architecture
 
-## Interesting asides
+# Interesting asides
 - Platform teams are meant to provide a “compelling internal product” to accelerate delivery by stream-aligned teams
 - Book recommendation: *Project to Product* (Kersten) #book-recommendation
 - [[202604260740-strangler-fig-pattern|Strangler Fig Pattern]]
 - "Demonstration defeats discussion"
 
-## Table of Contents
-- 9.1 – Organizational factors  
-- 9.2 – The business case  
-- 9.3 – Building enterprise FFs  
-- 9.4 – Where do you start  
-- 9.5 – Future state  
-- 9.6 – Why (or why not?)
 
----
-
+# 9.1 - Organizational factors
 ## 9.1.1 – Don’t fight Conway’s Law
-- Careful of many integration pts b/w teams  
+- Careful of too many coupling/integration points between teams  
 	- So each team can function independently, just like services
 - How a group breaks down a problem affects the choices that can be made later  
 - System design tends to be copies of communication structures in an org  
@@ -40,7 +30,6 @@ publish: true
 - [[202604260742-think-products-not-projects|Think in terms of products, not projects]] → long-term ownership of quality  
 - Create small (“2 pizza”) teams to limit communication overhead  
 
----
 
 ## 9.1.2 – Culture
 - Architects should be aware of:
@@ -54,7 +43,7 @@ publish: true
 	  - Run small experiments to explicitly evaluate coupling impact  
 	  - Ex: Can devs write/test code outside the framework?
 
----
+
 
 ## 9.1.3 – Culture of experimentation
 - Successful experimentation = regularly running small activities to try new ideas & integrating successful ones  
@@ -68,15 +57,15 @@ publish: true
 	- Explore multiple options simultaneously via quick prototypes  
 	- Connect devs with end users  
 
----
+
 
 ## 9.1.4 – CFO & Budgeting
 - With ↑ number of quanta, ↓ marginal cost (to a point)  
 - Architects must understand trade-offs between evolvability & inherent uncertainty  
 
----
 
-# 9.2 – Business Case
+
+# 9.2 – The business case
 
 ## 9.2.1 – Hypothesis & data-driven development
 - Use FFs to test hypotheses  
@@ -86,21 +75,21 @@ publish: true
 - Requires ability to run multiple versions simultaneously  
 - Prefer measurement over surveys  
 
----
+
 
 ## 9.2.2 – FFs as experimental media
 - Use FFs to test hypotheses  
 - See case studies  
 
----
 
-## 9.3 – Building enterprise FFs
+
+# 9.3 – Building enterprise FFs
 - Role of enterprise architect:
   - Guide purposeful coupling points  
   - Guide platform choices  
   - Enable enterprise-wide FFs  
 
----
+
 
 ## 9.3.1 – Case study: 0-day security vulnerability
 - Deployment pipelines include a “slot” for security team FFs  
@@ -118,30 +107,30 @@ publish: true
   - Scalability  
   - etc.  
 
----
+
 
 ## 9.3.2 – Carving out BCs in existing architecture
 - Identify domain-specific regions  
 - Use FFs to prevent unwanted coupling  
 
----
 
-## 9.4 – Where do you start?
+
+# 9.4 – Where do you start?
 - Low-hanging fruit  
 - Areas already loosely coupled  
 - Demonstrate value quickly with concrete data  
 - Prioritize highest value first  
 - Show long-term value of evolutionary architecture  
 
----
 
-## 9.5 – Future state
+
+# 9.5 – Future state
 - Generative testing  
 - Common in functional programming  
 
----
 
-## 9.6 – Why (or why not?)
+
+# 9.6 – Why (or why not?)
 
 ### Why
 - Scalability ≈ evolvability  
@@ -154,18 +143,18 @@ publish: true
 - Other concerns dominate  
 - Sacrificial architecture  
 
----
+
 
 ## Testing
 - Add coarse-grained functional tests  
 - Catch regressions during restructuring  
 
----
+
 
 ## Infrastructure
 - Enable fast, incremental changes  
 
----
+
 
 ## Notable quote
 > “Controlling coupling & automating verification is the key to building well-governed architectures that can evolve via domain, technical change, or both.”
