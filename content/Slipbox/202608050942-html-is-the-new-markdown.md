@@ -1,6 +1,6 @@
 ---
 title: HTML is the New Markdown?
-publish:
+publish: true
 ---
 ```embed
 title: "Know your unknowns — examples"
