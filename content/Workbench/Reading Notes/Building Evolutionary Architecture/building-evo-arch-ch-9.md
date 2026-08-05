@@ -13,7 +13,7 @@ publish: true
 # Interesting asides
 - Platform teams are meant to provide a “compelling internal product” to accelerate delivery by stream-aligned teams
 - Book recommendation: *Project to Product* (Kersten) #book-recommendation
-- [[202604260740-strangler-fig-pattern|Strangler Fig Pattern]]
+- [[strangler-fig|Strangler Fig Pattern]]
 - "Demonstration defeats discussion"
 
 

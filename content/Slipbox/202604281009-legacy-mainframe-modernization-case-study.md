@@ -35,7 +35,7 @@ publish: true
 - Guiding principles
 	- Fail-fast, to identify risks early
 	- Delivery value early, in thin slices 
-- Thus, opted for an "**Incremental Dual Run**" approach, where a [[202604262236-transitional-architecture|transitional architecture]] was used to support slice-by-slice displacement of capabilities away from a legacy system
+- Thus, opted for an "**Incremental Dual Run**" approach, where a [[transitional-architecture|transitional architecture]] was used to support slice-by-slice displacement of capabilities away from a legacy system
 	- So the legacy and new systems can run temporarily in parallel to deliver value and validate parity
 
 
@@ -74,7 +74,7 @@ Here, **seams** are defined as junctions between code, programs or modules that 
 ## External Interfaces
 
 - These are exposed by the legacy system to data providers and customers
-- Apply [[202604281313-event-interception|event interception]] to transition the workload to the cloud, without impacting user experience
+- Apply [[event-interception|event interception]] to transition the workload to the cloud, without impacting user experience
 
 ### Batch Input as Seam
 
@@ -86,4 +86,23 @@ Here, **seams** are defined as junctions between code, programs or modules that 
 ![](https://martinfowler.com/articles/uncovering-mainframe-seams/api-seam-parallel-proxy.png)
 
 
-![])(https://martinfowler.com/articles/uncovering-mainframe-seams/api-seam-parallel-canary.png)
+![](https://martinfowler.com/articles/uncovering-mainframe-seams/api-seam-parallel-canary.png)
+
+
+## Internal Interfaces
+- To enable migrating more granular capabilities to the cloud
+
+### Coarse Seam: Data interactions as a Seam
+- Cataloged applications interact with the database
+	- Database readers
+		- ![](https://martinfowler.com/articles/uncovering-mainframe-seams/db-readers.png)
+		- Continuously replicate legacy system databases to the cloud environment, to enable new data API development in the latter
+		- Redesigned the model of the replicated data, into more modern and non-relational forms, based on access pattern, query complexity, schema flexibility
+			- This allows the data on the legacy system to stay the same, while building the foundation for modernizing the data reader applications
+	- Database writers
+		- ![](https://martinfowler.com/articles/uncovering-mainframe-seams/db-writers-extract.png)
+		- Use [[202604281346-extract-product-lines|extract product lines]] to identify separate domains in the batch data pipelines that can execute independently of each other, and so can be migrated to the cloud one by one
+
+### Coarse Seam: Batch Pipeline Step Handoff
+### Granular Seam: Data Characteristic
+### Granular Seam: Downstream processing handoff

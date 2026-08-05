@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "mapping": {
+    "Slipbox/202604200704-platform-engineering.md": "slipbox_202604200704-platform-engineering.md.json",
+    "Slipbox/martinfowler.com - Strangler Fig.md": "slipbox_martinfowler.com_-_strangler_fig.md.json",
+    "Slipbox/202604281401-legacy-mimic.md": "slipbox_202604281401-legacy-mimic.md.json"
+  },
+  "lastUpdated": 1777515480427
+}
