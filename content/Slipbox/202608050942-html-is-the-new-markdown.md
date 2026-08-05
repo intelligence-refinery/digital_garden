@@ -1,20 +1,10 @@
 ---
 title: HTML is the New Markdown?
 publish: true
+published: 2026-08-05
 ---
-```embed
-title: "Know your unknowns — examples"
-image: ""
-description: ""
-url: "https://thariqs.github.io/html-effectiveness/unknowns/index.html"
-favicon: ""
-```
+Original post: https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
 
-```embed
-title: "Using Claude Code: The Unreasonable Effectiveness of HTML"
-image: "https://pbs.twimg.com/media/HHz_ftzaIAAwkQs.jpg"
-description: "The original X post about the effectiveness of HTML as a communication format."
-url: "https://x.com/trq212/article/2052809885763747935"
-favicon: ""
-aspectRatio: "66.04292790313704"
-```
+Examples of HTML docs: https://thariqs.github.io/html-effectiveness/#illustrations
+
+Lenny's Newsletter: https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown
